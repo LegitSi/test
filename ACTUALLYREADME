@@ -1,0 +1,7 @@
+hi and hello
+this was a test to see how forks would behave if the main became private
+turns out forks become disconnected from the main but still exist
+for various reasons this didnt work with our idea but im keeping this up anyway
+https://github.com/NeonicPlasma/test/tree/main <- the original fork
+
+thank you to NeonicPlasma for helping me test this out :)
